@@ -1,4 +1,4 @@
-# hinanonew0814
+# my-app
 
 ## Project setup
 ```
@@ -22,4 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-"# hinanonew0814" 
+"# Inoue13" 
+"# inouekadai0814" 
