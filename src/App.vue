@@ -10,7 +10,7 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVRet7wPwk9xAjNmdufs2JzVETBp66GAuxgSv6s1W0YhP_-h-vpugY-P5qGE3zKVKfm9jYy_4Eh8x012orm6tsCGxvc1Q5CBwAZgeL0HNaXlrnyK5AfDaDGiyrHEP1pgrM7Pwqpd4Ukpk/s800/drink_petbottle_tsumetai.png"
+          src=""
           transition="scale-transition"
           width="40"
         />
